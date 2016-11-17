@@ -1,4 +1,4 @@
-# my1-php-ppp
+# My1s-PPP-in-PHP
 a PHP Library for Perfect paper Passwords ( https://www.grc.com/ppp )
 
 This class uses the biginteger library from http://phpseclib.sourceforge.net/math/intro.html
